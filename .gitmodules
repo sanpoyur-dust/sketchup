@@ -1,6 +1,6 @@
 [submodule "sketch-legacy/sketch-frontend"]
 	path = sketch-legacy/sketch-frontend
-	url = https://github.com/asolarlez/sketch-frontend.git
+	url = https://github.com/yurusanP-fork/sketch-frontend.git
 [submodule "sketch-legacy/sketch-backend"]
 	path = sketch-legacy/sketch-backend
-	url = https://github.com/asolarlez/sketch-backend.git
+	url = https://github.com/yurusanP-fork/sketch-backend.git
