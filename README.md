@@ -3,9 +3,9 @@
 Building `sketch` from source is not easy. This repository contains patched stable branches for `sketch-frontend` and `sketch-backend` to make the process easier.
 
 Originally, I wished to use `docker compose up` to automate the process even further, hence the name.
-However, it takes forever for `maven` to download the dependencies, so I gave up on that.
+However, it took forever for Maven to download the dependencies in Docker, so I gave up on that.
 
-I only tested it on my Ubuntu 22.10 x86_64 server, so it might not work on other platforms.
+I've only tested it on my Ubuntu 22.10 x86_64 server & my MacOS 13.1 aarch64 (M1) laptop, so it might not work on other platforms.
 
 ## Building
 
